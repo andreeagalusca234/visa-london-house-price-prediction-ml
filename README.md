@@ -1,6 +1,6 @@
 # 🏡 London House Price Prediction (Machine Learning)
 
-📄 [View 1-page project summary](report/london-house-price-prediction-ml.pdf)
+📄 [View 1-page project summary](report/visa-london-house-price-prediction-ml.pdf)
 
 ---
 
